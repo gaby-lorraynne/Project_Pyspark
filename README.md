@@ -41,6 +41,3 @@ A execução do notebook realiza queries diretamente na tabela DynamoDB configur
 - Os dados refletirão em tempo real os conteúdos presentes na sua conta AWS.
 
 - A análise e os relatórios dependerão dos dados armazenados no período de 6 meses anteriores à data atual.
-
-
-
